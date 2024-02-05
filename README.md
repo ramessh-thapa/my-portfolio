@@ -1,20 +1,6 @@
-## Responsive Portfolio Website ✨
+## My Portfolio Website ✨
 
-Responsive Portfolio Website Using HTML, CSS and JavaScript, with a beautiful user interface. 
-Website contains: 
-- Header 
-- Home
-- About
-- Skills
-- Qualification
-- Services
-- Portfolio
-- Project in mind
-- Testimonial
-- Contact
-- Footer 
+ Day 1: Updated Portfolio template with my data, made some changes to UI components
+ Day 2: Added Contact me Form in UI and Created API Gateway and Lambda with AWS SES
+ 
 
-If u liked my website and the code was useful to you, <br>
-feel free to leave a star (much appreciated) fork it and customize as you like! :)
-
-- Inspired design by Bedimcode-Alexa design 🙌
